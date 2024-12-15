@@ -35,11 +35,10 @@ This section organizes papers based on the topic or research area.
     - [AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation](https://arxiv.org/abs/2308.08155) - Oct 2023
     - [ChatDev: Communicative Agents for Software Development](https://arxiv.org/abs/2307.07924) - Jul 2023
   - **[Cognitive Agents]**
-    - [AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation](https://arxiv.org/abs/2308.08155) - Oct 2023
+    - [Tree of Thoughts: Deliberate Problem Solving with Large Language Models](https://arxiv.org/abs/2305.10601) - May 2023
+    - [ReAct: Synergizing Reasoning and Acting in Language Models](https://arxiv.org/abs/2210.03629) - Oct 2022
 
-- **[Cognitive Agents]**
-  - [Tree of Thoughts: Deliberate Problem Solving with Large Language Models](https://arxiv.org/abs/2305.10601) - May 2023
-  - [ReAct: Synergizing Reasoning and Acting in Language Models](https://arxiv.org/abs/2210.03629) - Oct 2022
+- **Prompt Engineering**
 
 ---
 
