@@ -39,6 +39,7 @@ This section organizes papers based on the topic or research area.
     - [ReAct: Synergizing Reasoning and Acting in Language Models](https://arxiv.org/abs/2210.03629) - Oct 2022
 
 - **Prompt Engineering**
+  - [The Prompt Report: A Systematic Survey of Prompting Techniques](https://arxiv.org/abs/2406.06608) - Jun 2024
 
 ---
 
