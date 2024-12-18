@@ -6,7 +6,7 @@ A collection of AI research papers, curated and organized for easy reference. Th
 
 ## Table of Contents
 
-- [Papers by Company](#papers-by-company)
+- [Papers by Company and Institution](#papers-by-company)
 - [Papers by Topic](#papers-by-topic)
 
 ---
