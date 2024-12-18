@@ -1,6 +1,6 @@
 # nice-2-read-ai-paper
 
-A collection of AI research papers, curated and organized for easy reference. This repository contains important AI papers categorized by company, topic, and researcher, providing a simple way to explore the latest research in AI.
+A collection of AI research papers, curated and organized for easy reference. This repository contains important AI papers categorized by company/institution and topic, providing a simple way to explore the latest research in AI.
 
 ---
 
@@ -8,21 +8,19 @@ A collection of AI research papers, curated and organized for easy reference. Th
 
 - [Papers by Company](#papers-by-company)
 - [Papers by Topic](#papers-by-topic)
-- [Papers by Researcher](#papers-by-researcher)
 
 ---
 
-## Papers by Company
+## Papers by Company and Institution
 
 This section lists AI research papers from various companies.
 
-- **[Company Name 1]**
-  - [Paper Title 1](link_to_paper) - Description or context (optional)
-  - [Paper Title 2](link_to_paper) - Description or context (optional)
+- **Open AI**
+  - [Training language models to follow instructions with human feedback](https://arxiv.org/abs/2203.02155) - Mar 2022
+  - [Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165) - May 2020
 
-- **[Company Name 2]**
-  - [Paper Title 1](link_to_paper) - Description or context (optional)
-  - [Paper Title 2](link_to_paper) - Description or context (optional)
+- **Google**
+  - [Attention Is All You Need](https://arxiv.org/abs/1706.03762) - Jun 2017
 
 ---
 
@@ -35,6 +33,7 @@ This section organizes papers based on the topic or research area.
     - [AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation](https://arxiv.org/abs/2308.08155) - Oct 2023
     - [ChatDev: Communicative Agents for Software Development](https://arxiv.org/abs/2307.07924) - Jul 2023
   - **Cognitive Agents**
+    - [Cognitive Architectures for Language Agents](https://arxiv.org/abs/2309.02427) - Sep 2023
     - [Tree of Thoughts: Deliberate Problem Solving with Large Language Models](https://arxiv.org/abs/2305.10601) - May 2023
     - [ReAct: Synergizing Reasoning and Acting in Language Models](https://arxiv.org/abs/2210.03629) - Oct 2022
 
@@ -43,21 +42,12 @@ This section organizes papers based on the topic or research area.
   - [A Survey on In-context Learning](https://arxiv.org/abs/2301.00234) - Dec 2022
   - [Chain-of-Thought Prompting Elicits Reasoning in Large Language Models](https://arxiv.org/abs/2201.11903) - Jan 2022
     
-- **RLHF**
+- **RLHF and DPO**
+  - [Direct Preference Optimization: Your Language Model is Secretly a Reward Model](https://arxiv.org/abs/2305.18290) - May 2023
   - [Training language models to follow instructions with human feedback](https://arxiv.org/abs/2203.02155) - Mar 2022
+ 
+- **Explainable AI**
+  - [Massive Activations in Large Language Models](https://arxiv.org/abs/2402.17762) - Feb 2024
 
 ---
 
-## Papers by Researcher
-
-This section organizes papers based on the researcher.
-
-- **[Researcher Name 1]**
-  - [Paper Title 1](link_to_paper) - Description or context (optional)
-  - [Paper Title 2](link_to_paper) - Description or context (optional)
-
-- **[Researcher Name 2]**
-  - [Paper Title 1](link_to_paper) - Description or context (optional)
-  - [Paper Title 2](link_to_paper) - Description or context (optional)
-
----
