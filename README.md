@@ -40,6 +40,11 @@ This section organizes papers based on the topic or research area.
 
 - **Prompt Engineering**
   - [The Prompt Report: A Systematic Survey of Prompting Techniques](https://arxiv.org/abs/2406.06608) - Jun 2024
+  - [A Survey on In-context Learning](https://arxiv.org/abs/2301.00234) - Dec 2022
+  - [Chain-of-Thought Prompting Elicits Reasoning in Large Language Models](https://arxiv.org/abs/2201.11903) - Jan 2022
+    
+- **RLHF**
+  - [Training language models to follow instructions with human feedback](https://arxiv.org/abs/2203.02155) - Mar 2022
 
 ---
 
