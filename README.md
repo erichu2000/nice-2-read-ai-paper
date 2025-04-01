@@ -41,6 +41,11 @@ This section organizes papers based on the topic or research area.
   - [The Prompt Report: A Systematic Survey of Prompting Techniques](https://arxiv.org/abs/2406.06608) - Jun 2024
   - [A Survey on In-context Learning](https://arxiv.org/abs/2301.00234) - Dec 2022
   - [Chain-of-Thought Prompting Elicits Reasoning in Large Language Models](https://arxiv.org/abs/2201.11903) - Jan 2022
+ 
+- **Reasoning**
+  - [Competitive Programming with Large Reasoning Models](https://arxiv.org/abs/2502.06807) - Feb 2025
+  - [DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning](https://arxiv.org/abs/2501.12948) - Jan 2025
+  - [s1: Simple test-time scaling](https://arxiv.org/abs/2501.19393) - Jan 2025
     
 - **RLHF and DPO**
   - [Direct Preference Optimization: Your Language Model is Secretly a Reward Model](https://arxiv.org/abs/2305.18290) - May 2023
