@@ -47,8 +47,8 @@ This section organizes papers based on the topic or research area.
   - [Recurrent Neural Network Regularization](https://arxiv.org/abs/1409.2329) - Sep 2014
  
 - **Multimodal**
-  - [DALL·E: Zero-Shot Text-to-Image Generation](https://arxiv.org/abs/2102.12092) - Feb 2021
   - [GPT-4 Technical Report](https://arxiv.org/abs/2303.08774) - Mar 2023
+  - [DALL·E: Zero-Shot Text-to-Image Generation](https://arxiv.org/abs/2102.12092) - Feb 2021
   
 - **Explainable AI**
   - [Massive Activations in Large Language Models](https://arxiv.org/abs/2402.17762) - Feb 2024
