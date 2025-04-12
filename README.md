@@ -4,26 +4,6 @@ A collection of AI research papers, curated and organized for easy reference. Th
 
 ---
 
-## Table of Contents
-
-- [Papers by Company and Institution](#papers-by-company)
-- [Papers by Topic](#papers-by-topic)
-
----
-
-## Papers by Company and Institution
-
-This section lists AI research papers from various companies.
-
-- **Open AI**
-  - [Training language models to follow instructions with human feedback](https://arxiv.org/abs/2203.02155) - Mar 2022
-  - [Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165) - May 2020
-
-- **Google**
-  - [Attention Is All You Need](https://arxiv.org/abs/1706.03762) - Jun 2017
-
----
-
 ## Papers by Topic
 
 This section organizes papers based on the topic or research area.
@@ -42,7 +22,7 @@ This section organizes papers based on the topic or research area.
   - [A Survey on In-context Learning](https://arxiv.org/abs/2301.00234) - Dec 2022
   - [Chain-of-Thought Prompting Elicits Reasoning in Large Language Models](https://arxiv.org/abs/2201.11903) - Jan 2022
  
-- **Reasoning**
+- **AI Reasoning**
   - [Competitive Programming with Large Reasoning Models](https://arxiv.org/abs/2502.06807) - Feb 2025
   - [DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning](https://arxiv.org/abs/2501.12948) - Jan 2025
   - [s1: Simple test-time scaling](https://arxiv.org/abs/2501.19393) - Jan 2025
@@ -51,8 +31,30 @@ This section organizes papers based on the topic or research area.
   - [Direct Preference Optimization: Your Language Model is Secretly a Reward Model](https://arxiv.org/abs/2305.18290) - May 2023
   - [Training language models to follow instructions with human feedback](https://arxiv.org/abs/2203.02155) - Mar 2022
  
+- **Transformer**
+  - [The Annotated Transformer](https://nlp.seas.harvard.edu/annotated-transformer/) - 2022
+  - [Attention Is All You Need](https://arxiv.org/abs/1706.03762) - Jun 2017
+ 
+- **Neural Network Architectures**
+  - [Understanding LSTM Networks](https://web.stanford.edu/class/cs379c/archive/2018/class_messages_listing/content/Artificial_Neural_Network_Technology_Tutorials/OlahLSTM-NEURAL-NETWORK-TUTORIAL-15.pdf) - Aug 2015
+
+- **Computer Vision**
+  - [ImageNet Classification with Deep Convolutional Neural Networks](https://proceedings.neurips.cc/paper_files/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf) - Dec 2012
+
+- **RNN**
+  - [The Unreasonable Effectiveness of Recurrent Neural Networks](https://karpathy.github.io/2015/05/21/rnn-effectiveness/) - May 2015
+  - [Sequence to Sequence Learning with Neural Networks](https://arxiv.org/abs/1409.3215) - Sep 2014
+  - [Recurrent Neural Network Regularization](https://arxiv.org/abs/1409.2329) - Sep 2014
+ 
+- **Multimodal**
+  - [DALL·E: Zero-Shot Text-to-Image Generation](https://arxiv.org/abs/2102.12092) - Feb 2021
+  - [GPT-4 Technical Report](https://arxiv.org/abs/2303.08774) - Mar 2023
+  
 - **Explainable AI**
   - [Massive Activations in Large Language Models](https://arxiv.org/abs/2402.17762) - Feb 2024
+
+- **Speech/Audio Processing**
+  - [Deep Speech 2: End-to-End Speech Recognition in English and Mandarin](https://arxiv.org/abs/1512.02595) - Dec 2015
 
 ---
 
