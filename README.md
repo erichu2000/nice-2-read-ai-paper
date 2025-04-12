@@ -1,6 +1,6 @@
 # nice-2-read-ai-paper
 
-A collection of AI research papers, curated and organized for easy reference. This repository contains important AI papers categorized by company/institution and topic, providing a simple way to explore the latest research in AI.
+A collection of AI research papers, curated and organized for easy reference. This repository contains important AI papers categorized by topic, providing a simple way to explore the latest research in AI.
 
 ---
 
