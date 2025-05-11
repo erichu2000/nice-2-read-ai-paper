@@ -8,6 +8,12 @@ A collection of AI research papers, curated and organized for easy reference. Th
 
 This section organizes papers based on the topic or research area.
 
+- **World Model**
+  - **JEPA**
+    - [Revisiting Feature Prediction for Learning Visual Representations from Video](https://ai.meta.com/research/publications/revisiting-feature-prediction-for-learning-visual-representations-from-video/) - Feb 2024
+    - [Self-Supervised Learning from Images with a Joint-Embedding Predictive Architecture](https://arxiv.org/abs/2301.08243) - Jan 2023
+  
+
 - **Agents**
   - **Multi-Agent**
     - [AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation](https://arxiv.org/abs/2308.08155) - Oct 2023
