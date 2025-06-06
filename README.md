@@ -41,8 +41,11 @@ This section organizes papers based on the topic or research area.
   - [Better & Faster Large Language Models via Multi-token Prediction](https://arxiv.org/abs/2404.19737) - Apr 2024
   - [The Annotated Transformer](https://nlp.seas.harvard.edu/annotated-transformer/) - 2022
   - [Attention Is All You Need](https://arxiv.org/abs/1706.03762) - Jun 2017
+
+- **Scaling Law**
+  - [Scaling Laws for Neural Language Models](https://arxiv.org/abs/2001.08361) - Jab 2020
  
-- **Neural Network Architectures**
+- **LSTM**
   - [Understanding LSTM Networks](https://web.stanford.edu/class/cs379c/archive/2018/class_messages_listing/content/Artificial_Neural_Network_Technology_Tutorials/OlahLSTM-NEURAL-NETWORK-TUTORIAL-15.pdf) - Aug 2015
  
 - **Fine Tuning**
