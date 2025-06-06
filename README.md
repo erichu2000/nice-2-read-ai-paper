@@ -38,6 +38,7 @@ This section organizes papers based on the topic or research area.
   - [Training language models to follow instructions with human feedback](https://arxiv.org/abs/2203.02155) - Mar 2022
  
 - **Transformer**
+  - [Better & Faster Large Language Models via Multi-token Prediction](https://arxiv.org/abs/2404.19737) - Apr 2024
   - [The Annotated Transformer](https://nlp.seas.harvard.edu/annotated-transformer/) - 2022
   - [Attention Is All You Need](https://arxiv.org/abs/1706.03762) - Jun 2017
  
