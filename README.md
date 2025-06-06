@@ -43,6 +43,9 @@ This section organizes papers based on the topic or research area.
  
 - **Neural Network Architectures**
   - [Understanding LSTM Networks](https://web.stanford.edu/class/cs379c/archive/2018/class_messages_listing/content/Artificial_Neural_Network_Technology_Tutorials/OlahLSTM-NEURAL-NETWORK-TUTORIAL-15.pdf) - Aug 2015
+ 
+- **Fine Tuning**
+  - [LoRA: Low-Rank Adaptation of Large Language Models](https://arxiv.org/abs/2106.09685) - Jun 2021
 
 - **Computer Vision**
   - [ImageNet Classification with Deep Convolutional Neural Networks](https://proceedings.neurips.cc/paper_files/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf) - Dec 2012
