@@ -10,6 +10,7 @@ This section organizes papers based on the topic or research area.
 
 - **World Model**
   - **JEPA**
+    - [V-JEPA 2: Self-Supervised Video Models Enable Understanding, Prediction and Planning](https://ai.meta.com/research/publications/v-jepa-2-self-supervised-video-models-enable-understanding-prediction-and-planning/) - Jun 2025
     - [Revisiting Feature Prediction for Learning Visual Representations from Video](https://ai.meta.com/research/publications/revisiting-feature-prediction-for-learning-visual-representations-from-video/) - Feb 2024
     - [Self-Supervised Learning from Images with a Joint-Embedding Predictive Architecture](https://arxiv.org/abs/2301.08243) - Jan 2023
   
