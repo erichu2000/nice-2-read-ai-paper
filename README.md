@@ -76,8 +76,8 @@ This section organizes papers based on the topic or research area.
 
   
 - **Explainable AI**
-  - [Massive Activations in Large Language Models](https://arxiv.org/abs/2402.17762) - Feb 2024
   - [Why Language Models Hallucinate](https://arxiv.org/abs/2509.04664) - Sep 2025
+  - [Massive Activations in Large Language Models](https://arxiv.org/abs/2402.17762) - Feb 2024
 
 - **Voice**
   - [Robust Speech Recognition via Large-Scale Weak Supervision](https://arxiv.org/abs/2212.04356) - Dec 2022
