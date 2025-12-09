@@ -16,6 +16,8 @@ This section organizes papers based on the topic or research area.
   
 
 - **Agents**
+  - **Agent Ready Language Models**
+    - [DeepSeek-V3.2: Pushing the Frontier of Open Large Language Models](https://arxiv.org/abs/2512.02556) - Dec 2025
   - **Multi-Agent**
     - [AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation](https://arxiv.org/abs/2308.08155) - Oct 2023
     - [ChatDev: Communicative Agents for Software Development](https://arxiv.org/abs/2307.07924) - Jul 2023
