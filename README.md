@@ -38,6 +38,7 @@ This section organizes papers based on the topic or research area.
   - [s1: Simple test-time scaling](https://arxiv.org/abs/2501.19393) - Jan 2025
  
 - **Transformer**
+  - [Gated Attention for Large Language Models: Non-linearity, Sparsity, and Attention-Sink-Free](https://arxiv.org/abs/2505.06708) - May 2025
   - [Better & Faster Large Language Models via Multi-token Prediction](https://arxiv.org/abs/2404.19737) - Apr 2024
   - [The Annotated Transformer](https://nlp.seas.harvard.edu/annotated-transformer/) - 2022
   - [Attention Is All You Need](https://arxiv.org/abs/1706.03762) - Jun 2017
